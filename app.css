@@ -1,0 +1,19 @@
+.inputdiv {
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 400px !important;
+}
+
+.foodtablediv {
+    margin-left: 600px;
+    margin-top: -80px;
+}
+
+.macronutrientgraphdiv {
+    margin-left: 400px;
+	margin-top: 10px;
+}
+
+.foodfeaturevalue {
+    text-align: right;
+}

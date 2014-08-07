@@ -1,0 +1,155 @@
+{
+    "Glutenfreie Haferflocken (alnatura)": {
+		"kJ": 1548,
+		"kcal": 367,
+		"Fett": 6.2,
+		"davon gesättigte Fettsäuren": 1.1,
+		"Kohlenhydrate": 61,
+		"davon Zucker": 1,
+		"Ballaststoffe": 9.2,
+		"Eiweiß": 12.3,
+		"Salz": 0.02
+    },
+    "Laktosefreise BioH-Milch 1,5% (Alnaviva)": {
+		"kJ": 195,
+		"kcal": 46,
+		"Eiweiß": 3.4,
+		"Kohlenhydrate": 4.8,
+		"davon Zucker": 4.8,
+		"Fett": 1.5,
+		"davon gesättigte Fettsäuren": 0.9,
+		"Natrium": 0.05,
+		"Calcium": 0.12
+    },
+    "Sonnenblumenbrot (rewe Bio)": {
+		"kJ": 944,
+		"kcal": 225,
+		"Fett": 4.8,
+		"davon gesättigte Fettsäuren": 0.6,
+		"Kohlenhydrate": 35.4,
+		"davon Zucker": 2.4,
+		"Ballaststoffe": 9.3,
+		"Eiweiß": 5.3,
+		"Salz": 1.2
+    },
+    "Laktosefreier Bio-Käse Bioländer (Andechser)": {
+		"kJ": 1370,
+		"kcal": 330,
+		"Fett": 26,
+		"davon gesättigte Fettsäuren": 16,
+		"Eiweiß": 24,
+		"Salz": 2
+    },
+    "Laktosefreier Bio-Alpenländer Butterkäse (Andechser)": {
+		"kJ": 1598,
+		"kcal": 386,
+		"Fett": 34,
+		"davon gesättigte Fettsäuren": 22,
+		"Eiweiß": 20,
+		"Salz": 1.5
+    },
+    "Laktosefreier Bio-Joghurt (swiss premium)": {
+		"kJ": 290,
+		"kcal": 69,
+		"Kohlenhydrate": 4.8,
+		"davon Zucker": 4.8,
+		"Fett": 3.5,
+		"Eiweiß": 4.5,
+		"Natrium": 0.05,
+		"Salz": 0.1
+    },
+    "Feine Bitter Schokolade 92% Cacao (Vivani)": {
+		"kJ": 2674,
+		"kcal": 648,
+		"Fett": 59.4,
+		"davon gesättigte Fettsäuren": 37.4,
+		"Kohlenhydrate": 13.1,
+		"davon Zucker": 7,
+		"Eiweiß": 8.5,
+		"Salz": 0.2
+    },
+	"Alnatura Bio-Eier": {
+		"kJ": 649.8,
+		"kcal": 155.2,
+		"Eiweiß": 12.9,
+		"Kohlenhydrate": 0.7,
+		"Fett": 11.2
+	},
+	"Smelk Haferdrink Mandel+Calcium (Kölln)": {
+		"kJ": 163,
+		"kcal": 39,
+		"Fett": 0.7,
+		"davon gesättigte Fettsäuren": 0.3,
+		"Kohlenhydrate": 7.1,
+		"davon Zucker": 4.4,
+		"Ballaststoffe": 0.6,
+		"Eiweiß": 0.7,
+		"Salz": 0.11,
+		"Calcium": 0.12
+	},
+	"Bio-Basmatireis, weiß (alnatura)": {
+		"kJ": 1540,
+		"kcal": 363,
+		"Fett": 1.2,
+		"davon gesättigte Fettsäuren": 0.4,
+		"Kohlenhydrate": 78,
+		"davon Zucker": 1.1,
+		"Ballaststoffe": 1.4,
+		"Eiweiß": 9.3,
+		"Salz": 0.03
+	},
+	"Karotten / Möhren, roh": {
+		"kJ": 110,
+		"kcal": 26,
+		"Eiweiß": 1,
+		"Kohlenhydrate": 4.8,
+		"davon Zucker": 2.8,
+		"Fett": 0.2,
+		"Ballaststoffe": 3.6
+	},
+	"Bio-Leberwurst (rewe)": {
+		"kJ": 1441,
+		"kcal": 348,
+		"Eiweiß": 14,
+		"Kohlenhydrate": 1,
+		"davon Zucker": 0.4,
+		"Fett": 32,
+		"davon gesättigte Fettsäuren": 13,
+		"Ballaststoffe": 0.2,
+		"Natrium": 0.7
+	},
+	"Real Thai Kokosnussmilch": {
+		"kJ": 771,
+		"kcal": 187,
+		"Fett": 19,
+		"davon gesättigte Fettsäuren": 17,
+		"Kohlenhydrate": 2,
+		"davon Zucker": 2,
+		"Eiweiß": 2
+	},
+	"Bio-Margarine mit Sonnenblumenöl (alnatura)": {
+		"kJ": 2960,
+		"kcal": 720,
+		"Fett": 80,
+		"davon gesättigte Fettsäuren": 22,
+		"davon einfach ungesättigte Fettsäuren": 24,
+		"davon mehrfach ungesättigte Fettsäuren": 34
+	},
+	"Grand Noir Edelbitter 85% Bio-Schokolade (GEPA)": {
+		"kJ": 2461,
+		"kcal": 596,
+		"Eiweiß": 8.1,
+		"Fett": 52.8,
+		"Kohlenhydrate": 15.7
+	},
+	"Bio Paprika-Lyoner (Rewe Bio)": {
+		"kJ": 1076,
+		"kcal": 260,
+		"Fett": 23,
+		"davon gesättigte Fettsäuren": 9.3,
+		"Kohlenhydrate": 1,
+		"davon Zucker": 1,
+		"Eiweiß": 12,
+		"Salz": 2
+	}
+}
