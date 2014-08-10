@@ -151,5 +151,49 @@
 		"davon Zucker": 1,
 		"Eiweiß": 12,
 		"Salz": 2
+	},
+	"Kalbfleisch-Leberwurst (Naturland)": {
+		"kJ": 1182,
+		"kcal": 285,
+		"Eiweiß": 15.1,
+		"Kohlenhydrate": 2.2,
+		"Fett": 24
+	},
+	"Mandeln (Kluth)": {
+		"kj": 2447,
+		"kcal": 592,
+		"Fett": 49.4,
+		"davon gesättigte Fettsäuren": 3.7,
+		"davon einfach ungesättigte Fettsäuren": 30.9,
+		"davon mehrfach ungesättigte Fettsäuren": 12.1,
+		"Kohlenhydrate": 9.5,
+		"davon Zucker": 3.9,
+		"Ballaststoffe": 12.2,
+		"Eiweiß": 21.2,
+		"Magnesium": 0.268,
+		"Vitamin E": 0.0262,
+		"Vitamin B2": 0.001
+	},
+	"Roggenvollkornbrot mit Sonnenblumenkernen (alnatura)": {
+		"kJ": 849,
+		"kcal": 202,
+		"Fett": 3.4,
+		"davon gesättigte Fettsäuren": 0.6,
+		"Kohlenhydrate": 32.3,
+		"davon Zucker": 3.7,
+		"Ballaststoffe": 10.3,
+		"Eiweiß": 5.4,
+		"Salz": 1
+	},
+	"Bio Dreikorn-Vollkornbrot (Bösen)": {
+		"kJ": 836,
+		"kcal": 199,
+		"Eiweiß": 5.3,
+		"Kohlenhydrate": 34.5,
+		"davon Zucker": 2.5,
+		"Fett": 2.3,
+		"davon gesättigte Fettsäuren": 0.3,
+		"Ballaststoffe": 9.3,
+		"Natrium": 0.52
 	}
 }
