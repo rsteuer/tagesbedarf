@@ -195,5 +195,48 @@
 		"davon gesättigte Fettsäuren": 0.3,
 		"Ballaststoffe": 9.3,
 		"Natrium": 0.52
+	},
+	"Vollkorn-Zwieback (Brandt)": {
+		"kJ": 1616,
+		"kcal": 383,
+		"Fett": 6,
+		"davon gesättigte Fettsäuren": 3.1,
+		"Kohlenhydrate": 64,
+		"davon Zucker": 11,
+		"Ballaststoffe": 8.5,
+		"Eiweiß": 14,
+		"Salz": 1.3
+	},
+	"Bio-Olivenöl nativ extra (alnatura)": {
+		"kJ": 3700,
+		"kcal": 900,
+		"Fett": 100,
+		"davon gesättigte Fettsäuren": 20,
+		"davon einfach ungesättigte Fettsäuren": 61,
+		"davon mehrfach ungesättigte Fettsäuren": 19
+	},
+	"Kokosmilch cremig (Lien Ying)": {
+		"kJ": 714,
+		"kcal": 173,
+		"Fett": 17,
+		"davon gesättigte Fettsäuren": 15,
+		"Kohlenhydrate": 3,
+		"davon Zucker": 1.5,
+		"Eiweiß": 1.5,
+		"Salz": 0.01
+	},
+	"Hafer-Drink Calcium (alnatura)": {
+		"kj": 168,
+		"kcal": 40,
+		"Eiweiß": 0.6,
+		"Kohlenhydrate": 6,
+		"davon Zucker": 5.2,
+		"Ballaststoffe": 0.5,
+		"Fett": 1.4,
+		"davon gesättigte Fettsäuren": 0.2,
+		"davon einfach ungesättigte Fettsäuren": 0.5,
+		"davon mehrfach ungesättigte Fettsäuren": 0.7,
+		"Natrium": 0.04,
+		"Calcium": 0.12
 	}
 }
