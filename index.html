@@ -27,7 +27,7 @@
     <pre>Search for food:</pre>
     <input id="input" type="text" ng-model="currentSelectedFoodName" typeahead="food for food
     in availableFoodNames | filter:$viewValue | limitTo:8"
-    typeahead-editable="false" typeahead-on-select='onSelect($item)'
+    typeahead-editable="false" typeahead-on-select="onSelect($item)"
     class="form-control" autocomplete="off" />
   </div>
 

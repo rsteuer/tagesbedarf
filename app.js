@@ -45,8 +45,8 @@ tagesbedarf.controller(
 			var macronutrients = ["Fett", "Eiweiß", "Kohlenhydrate", "Ballaststoffe"];
 			var gram = 0;
 			for(var byIndex in macronutrients) {
-				gram = $scope.currentSelectedFoodObject[macronutrients[byIndex]];;
-				gram = (gram == undefined) ? 0 : gram;
+				gram = $scope.currentSelectedFoodObject[macronutrients[byIndex]];
+				gram = (gram === undefined) ? 0 : gram;
 				$scope.exampleData.push({key: macronutrients[byIndex], y: gram});
 			}
 
@@ -59,25 +59,24 @@ tagesbedarf.controller(
 var initAutocomplete = function($scope) {
 
     $("#input").focus();
-
+	
     $.getJSON(
-	"food.json"
+		"food.json"
     ).success(
-	function(data) {
-
-		var foodNames = [];
-		for(var food in data) {
-			foodNames.push(food);
+		function(data) {
+			
+			var foodNames = [];
+			for(var food in data) {
+				foodNames.push(food);
+			}
+			$scope.availableFoodNames = foodNames;
+			$scope.availableFoodObjects = data;
+		
 		}
-		$scope.availableFoodNames = foodNames;
-		$scope.availableFoodObjects = data;
-
-	}
     ).error(
-	function(jqXHR, textStatus) {
-		console.log("error " + textStatus);
-		console.log("incoming Text " + jqXHR.responseText);
-	}
+		function(jqXHR, textStatus) {
+			console.log("error " + textStatus + ", incoming Text " + jqXHR.responseText);
+		}
     );
 
 };
