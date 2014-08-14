@@ -238,5 +238,100 @@
 		"davon mehrfach ungesättigte Fettsäuren": 0.7,
 		"Natrium": 0.04,
 		"Calcium": 0.12
+	},
+	"Bio-Flohsamenschalen, indisch (Salus)": {
+		"kJ": 709,
+		"kcal": 177,
+		"Eiweiß": 2.4,
+		"Kohlenhydrate": 1.7,
+		"Fett": 0.6,
+		"Ballaststoffe": 85
+	},
+	"Bio Naturreis mit Wildreis (alnatura)": {
+		"kj": 1488,
+		"kcal": 351,
+		"Fett": 2.3,
+		"davon gesättigte Fettsäuren": 0.6,
+		"Kohlenhydrate": 72,
+		"davon Zucker": 1.6,
+		"Ballaststoffe": 1.5,
+		"Eiweiß": 9.8,
+		"Salz": 0.05
+	},
+	"Bio Basmati-Vollkornreis (alnatura)": {
+		"kJ": 1516,
+		"kcal": 358,
+		"Fett": 3,
+		"davon gesättigte Fettsäuren": 0.9,
+		"Kohlenhydrate": 72.2,
+		"davon Zucker": 0.9,
+		"Ballaststoffe": 1.4,
+		"Eiweiß": 9.8
+	},
+	"Bio Langkornreis, parboiled (alnatura)": {
+		"kj": 1476,
+		"kcal": 348,
+		"Fett": 0.8,
+		"davon gesättigte Fettsäuren": 0.3,
+		"Kohlenhydrate": 77.4,
+		"davon Zucker": 0.4,
+		"Ballaststoffe": 1.5,
+		"Eiweiß": 7,
+		"Salz": 0.02
+	},
+	"Bio Naturreis Langkorn (alnatura)": {
+		"kJ": 1529,
+		"kcal": 361,
+		"Fett": 1.9,
+		"davon gesättigte Fettsäuren": 0.1,
+		"Kohlenhydrate": 77.4,
+		"davon Zucker": 1.2,
+		"Ballaststoffe": 1.9,
+		"Eiweiß": 7.5,
+		"Salz": 0.02
+	},
+	"Bio-Amaranth (alnatura)": {
+		"kJ": 1690,
+		"kcal": 402,
+		"Fett": 8.8,
+		"davon gesättigte Fettsäuren": 2.1,
+		"Kohlenhydrate": 56.8,
+		"davon Zucker": 1.7,
+		"Ballaststoffe": 16.3,
+		"Eiweiß": 15.8,
+		"Salz": 0.07
+	},
+	"Bio-Quinoa (alnatura)": {
+		"kJ": 1542,
+		"kcal": 365,
+		"Fett": 5.9,
+		"davon gesättigte Fettsäuren": 0.5,
+		"Kohlenhydrate": 62.4,
+		"davon Zucker": 1.8,
+		"Ballaststoffe": 6.9,
+		"Eiweiß": 12.2,
+		"Salz": 0.01
+	},
+	"Bio-Hirse (alnatura)": {
+		"kJ": 1525,
+		"kcal": 360,
+		"Fett": 3.9,
+		"davon gesättigte Fettsäuren": 1,
+		"Kohlenhydrate": 68.8,
+		"davon Zucker": 1.5,
+		"Ballaststoffe": 3.8,
+		"Eiweiß": 10.6,
+		"Salz": 0.01
+	},
+	"Bio-Haferflocken, Feinblatt (alnatura)": {
+		"kJ": 1468,
+		"kcal": 349,
+		"Fett": 7.1,
+		"davon gesättigte Fettsäuren": 1.4,
+		"Kohlenhydrate": 55.7,
+		"davon Zucker": 1.1,
+		"Ballaststoffe": 9.7,
+		"Eiweiß": 10.7,
+		"Salz": 0.02
 	}
 }
