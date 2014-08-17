@@ -333,5 +333,16 @@
 		"Ballaststoffe": 9.7,
 		"Eiweiß": 10.7,
 		"Salz": 0.02
+	},
+	"Streichcreme, Aubergine (alnatura)": {
+		"kJ": 1156,
+		"kcal": 280,
+		"Eiweiß": 5.5,
+		"Kohlenhydrate": 5,
+		"davon Zucker": 4.1,
+		"Fett": 25.8,
+		"davon gesättigte Fettsäuren": 2.5,
+		"Ballaststoffe": 2.8,
+		"Natrium": 0.53
 	}
 }
