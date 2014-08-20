@@ -4,8 +4,10 @@
 		"kcal": 367,
 		"Fett": 6.2,
 		"davon gesättigte Fettsäuren": 1.1,
-		"Kohlenhydrate": 61,
-		"davon Zucker": 1,
+		"Kohlenhydrate": {
+			"total": 61,
+			"Zucker": 1
+		},
 		"Ballaststoffe": 9.2,
 		"Eiweiß": 12.3,
 		"Salz": 0.02
@@ -14,8 +16,10 @@
 		"kJ": 195,
 		"kcal": 46,
 		"Eiweiß": 3.4,
-		"Kohlenhydrate": 4.8,
-		"davon Zucker": 4.8,
+		"Kohlenhydrate": {
+			"total": 4.8,
+			"Zucker": 4.8
+		},
 		"Fett": 1.5,
 		"davon gesättigte Fettsäuren": 0.9,
 		"Natrium": 0.05,
@@ -26,8 +30,10 @@
 		"kcal": 225,
 		"Fett": 4.8,
 		"davon gesättigte Fettsäuren": 0.6,
-		"Kohlenhydrate": 35.4,
-		"davon Zucker": 2.4,
+		"Kohlenhydrate": {
+			"total": 35.4,
+			"Zucker": 2.4
+		},
 		"Ballaststoffe": 9.3,
 		"Eiweiß": 5.3,
 		"Salz": 1.2
@@ -51,8 +57,10 @@
     "Laktosefreier Bio-Joghurt (swiss premium)": {
 		"kJ": 290,
 		"kcal": 69,
-		"Kohlenhydrate": 4.8,
-		"davon Zucker": 4.8,
+		"Kohlenhydrate": {
+			"total": 4.8,
+			"Zucker": 4.8
+		},
 		"Fett": 3.5,
 		"Eiweiß": 4.5,
 		"Natrium": 0.05,
@@ -63,8 +71,10 @@
 		"kcal": 648,
 		"Fett": 59.4,
 		"davon gesättigte Fettsäuren": 37.4,
-		"Kohlenhydrate": 13.1,
-		"davon Zucker": 7,
+		"Kohlenhydrate": {
+			"total": 13.1,
+			"Zucker": 7
+		},
 		"Eiweiß": 8.5,
 		"Salz": 0.2
     },
@@ -72,7 +82,9 @@
 		"kJ": 649.8,
 		"kcal": 155.2,
 		"Eiweiß": 12.9,
-		"Kohlenhydrate": 0.7,
+		"Kohlenhydrate": {
+			"total": 0.7
+		},
 		"Fett": 11.2
 	},
 	"Smelk Haferdrink Mandel+Calcium (Kölln)": {
@@ -80,8 +92,10 @@
 		"kcal": 39,
 		"Fett": 0.7,
 		"davon gesättigte Fettsäuren": 0.3,
-		"Kohlenhydrate": 7.1,
-		"davon Zucker": 4.4,
+		"Kohlenhydrate": {
+			"total": 7.1,
+			"Zucker": 4.4
+		},
 		"Ballaststoffe": 0.6,
 		"Eiweiß": 0.7,
 		"Salz": 0.11,
@@ -92,8 +106,10 @@
 		"kcal": 363,
 		"Fett": 1.2,
 		"davon gesättigte Fettsäuren": 0.4,
-		"Kohlenhydrate": 78,
-		"davon Zucker": 1.1,
+		"Kohlenhydrate": {
+			"total": 78,
+			"Zucker": 1.1
+		},
 		"Ballaststoffe": 1.4,
 		"Eiweiß": 9.3,
 		"Salz": 0.03
@@ -102,8 +118,10 @@
 		"kJ": 110,
 		"kcal": 26,
 		"Eiweiß": 1,
-		"Kohlenhydrate": 4.8,
-		"davon Zucker": 2.8,
+		"Kohlenhydrate": {
+			"total": 4.8,
+			"Zucker": 2.8
+		},
 		"Fett": 0.2,
 		"Ballaststoffe": 3.6
 	},
@@ -111,8 +129,10 @@
 		"kJ": 1441,
 		"kcal": 348,
 		"Eiweiß": 14,
-		"Kohlenhydrate": 1,
-		"davon Zucker": 0.4,
+		"Kohlenhydrate": {
+			"total": 1,
+			"Zucker": 0.4
+		},
 		"Fett": 32,
 		"davon gesättigte Fettsäuren": 13,
 		"Ballaststoffe": 0.2,
@@ -123,8 +143,10 @@
 		"kcal": 187,
 		"Fett": 19,
 		"davon gesättigte Fettsäuren": 17,
-		"Kohlenhydrate": 2,
-		"davon Zucker": 2,
+		"Kohlenhydrate": {
+			"total": 2,
+			"Zucker": 2
+		},
 		"Eiweiß": 2
 	},
 	"Bio-Margarine mit Sonnenblumenöl (alnatura)": {
@@ -140,15 +162,19 @@
 		"kcal": 596,
 		"Eiweiß": 8.1,
 		"Fett": 52.8,
-		"Kohlenhydrate": 15.7
+		"Kohlenhydrate": {
+			"total": 15.7
+		}
 	},
 	"Bio Paprika-Lyoner (Rewe Bio)": {
 		"kJ": 1076,
 		"kcal": 260,
 		"Fett": 23,
 		"davon gesättigte Fettsäuren": 9.3,
-		"Kohlenhydrate": 1,
-		"davon Zucker": 1,
+		"Kohlenhydrate": {
+			"total": 1,
+			"Zucker": 1
+		},
 		"Eiweiß": 12,
 		"Salz": 2
 	},
@@ -156,7 +182,9 @@
 		"kJ": 1182,
 		"kcal": 285,
 		"Eiweiß": 15.1,
-		"Kohlenhydrate": 2.2,
+		"Kohlenhydrate": {
+			"total": 2.2
+		},
 		"Fett": 24
 	},
 	"Mandeln (Kluth)": {
@@ -166,8 +194,10 @@
 		"davon gesättigte Fettsäuren": 3.7,
 		"davon einfach ungesättigte Fettsäuren": 30.9,
 		"davon mehrfach ungesättigte Fettsäuren": 12.1,
-		"Kohlenhydrate": 9.5,
-		"davon Zucker": 3.9,
+		"Kohlenhydrate": {
+			"total": 9.5,
+			"Zucker": 3.9
+		},
 		"Ballaststoffe": 12.2,
 		"Eiweiß": 21.2,
 		"Magnesium": 0.268,
@@ -179,8 +209,10 @@
 		"kcal": 202,
 		"Fett": 3.4,
 		"davon gesättigte Fettsäuren": 0.6,
-		"Kohlenhydrate": 32.3,
-		"davon Zucker": 3.7,
+		"Kohlenhydrate": {
+			"total": 32.3,
+			"Zucker": 3.7
+		},
 		"Ballaststoffe": 10.3,
 		"Eiweiß": 5.4,
 		"Salz": 1
@@ -189,8 +221,10 @@
 		"kJ": 836,
 		"kcal": 199,
 		"Eiweiß": 5.3,
-		"Kohlenhydrate": 34.5,
-		"davon Zucker": 2.5,
+		"Kohlenhydrate": {
+			"total": 34.5,
+			"Zucker": 2.5
+		},
 		"Fett": 2.3,
 		"davon gesättigte Fettsäuren": 0.3,
 		"Ballaststoffe": 9.3,
@@ -201,8 +235,10 @@
 		"kcal": 383,
 		"Fett": 6,
 		"davon gesättigte Fettsäuren": 3.1,
-		"Kohlenhydrate": 64,
-		"davon Zucker": 11,
+		"Kohlenhydrate": {
+			"total": 64,
+			"Zucker": 11
+		},
 		"Ballaststoffe": 8.5,
 		"Eiweiß": 14,
 		"Salz": 1.3
@@ -220,8 +256,10 @@
 		"kcal": 173,
 		"Fett": 17,
 		"davon gesättigte Fettsäuren": 15,
-		"Kohlenhydrate": 3,
-		"davon Zucker": 1.5,
+		"Kohlenhydrate": {
+			"total": 3,
+			"Zucker": 1.5
+		},
 		"Eiweiß": 1.5,
 		"Salz": 0.01
 	},
@@ -229,8 +267,10 @@
 		"kj": 168,
 		"kcal": 40,
 		"Eiweiß": 0.6,
-		"Kohlenhydrate": 6,
-		"davon Zucker": 5.2,
+		"Kohlenhydrate": {
+			"total": 6,
+			"Zucker": 5.2
+		},
 		"Ballaststoffe": 0.5,
 		"Fett": 1.4,
 		"davon gesättigte Fettsäuren": 0.2,
@@ -243,7 +283,9 @@
 		"kJ": 709,
 		"kcal": 177,
 		"Eiweiß": 2.4,
-		"Kohlenhydrate": 1.7,
+		"Kohlenhydrate": {
+			"total": 1.7
+		},
 		"Fett": 0.6,
 		"Ballaststoffe": 85
 	},
@@ -252,8 +294,10 @@
 		"kcal": 351,
 		"Fett": 2.3,
 		"davon gesättigte Fettsäuren": 0.6,
-		"Kohlenhydrate": 72,
-		"davon Zucker": 1.6,
+		"Kohlenhydrate": {
+			"total": 72,
+			"Zucker": 1.6
+		},
 		"Ballaststoffe": 1.5,
 		"Eiweiß": 9.8,
 		"Salz": 0.05
@@ -263,8 +307,10 @@
 		"kcal": 358,
 		"Fett": 3,
 		"davon gesättigte Fettsäuren": 0.9,
-		"Kohlenhydrate": 72.2,
-		"davon Zucker": 0.9,
+		"Kohlenhydrate": {
+			"total": 72.2,
+			"Zucker": 0.9
+		},
 		"Ballaststoffe": 1.4,
 		"Eiweiß": 9.8
 	},
@@ -273,8 +319,10 @@
 		"kcal": 348,
 		"Fett": 0.8,
 		"davon gesättigte Fettsäuren": 0.3,
-		"Kohlenhydrate": 77.4,
-		"davon Zucker": 0.4,
+		"Kohlenhydrate": {
+			"total": 77.4,
+			"Zucker": 0.4
+		},
 		"Ballaststoffe": 1.5,
 		"Eiweiß": 7,
 		"Salz": 0.02
@@ -284,8 +332,10 @@
 		"kcal": 361,
 		"Fett": 1.9,
 		"davon gesättigte Fettsäuren": 0.1,
-		"Kohlenhydrate": 77.4,
-		"davon Zucker": 1.2,
+		"Kohlenhydrate": {
+			"total": 77.4,
+			"Zucker": 1.2
+		},
 		"Ballaststoffe": 1.9,
 		"Eiweiß": 7.5,
 		"Salz": 0.02
@@ -295,8 +345,10 @@
 		"kcal": 402,
 		"Fett": 8.8,
 		"davon gesättigte Fettsäuren": 2.1,
-		"Kohlenhydrate": 56.8,
-		"davon Zucker": 1.7,
+		"Kohlenhydrate": {
+			"total": 56.8,
+			"Zucker": 1.7
+		},
 		"Ballaststoffe": 16.3,
 		"Eiweiß": 15.8,
 		"Salz": 0.07
@@ -317,8 +369,10 @@
 		"kcal": 360,
 		"Fett": 3.9,
 		"davon gesättigte Fettsäuren": 1,
-		"Kohlenhydrate": 68.8,
-		"davon Zucker": 1.5,
+		"Kohlenhydrate": {
+			"total": 68.8,
+			"Zucker": 1.5
+		},
 		"Ballaststoffe": 3.8,
 		"Eiweiß": 10.6,
 		"Salz": 0.01
@@ -328,8 +382,10 @@
 		"kcal": 349,
 		"Fett": 7.1,
 		"davon gesättigte Fettsäuren": 1.4,
-		"Kohlenhydrate": 55.7,
-		"davon Zucker": 1.1,
+		"Kohlenhydrate": {
+			"total": 55.7,
+			"Zucker": 1.1
+		},
 		"Ballaststoffe": 9.7,
 		"Eiweiß": 10.7,
 		"Salz": 0.02
@@ -338,8 +394,10 @@
 		"kJ": 1156,
 		"kcal": 280,
 		"Eiweiß": 5.5,
-		"Kohlenhydrate": 5,
-		"davon Zucker": 4.1,
+		"Kohlenhydrate": {
+			"total": 5,
+			"Zucker": 4.1
+		},
 		"Fett": 25.8,
 		"davon gesättigte Fettsäuren": 2.5,
 		"Ballaststoffe": 2.8,

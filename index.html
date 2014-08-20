@@ -35,7 +35,7 @@
     <table>
       <th>{{lastSelectedFoodName}}</th>
       <tr ng-repeat="(key, value) in currentSelectedFoodObject">
-	<td class="foodfeaturekey"> {{key}} </td> <td class="foodfeaturevalue"> {{ value }} </td>
+		<td class="foodfeaturekey">{{key}}</td><td class="foodfeaturevalue">{{printFoodValue(value)}}</td>
       </tr>
     </table>
   </div>
