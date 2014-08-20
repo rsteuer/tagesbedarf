@@ -402,5 +402,32 @@
 		"davon gesättigte Fettsäuren": 2.5,
 		"Ballaststoffe": 2.8,
 		"Natrium": 0.53
+	},
+	"Glutenfreine Spiralnudeln (3 Pauly)": {
+		"kJ": 1571,
+		"kcal": 371,
+		"Fett": 2.4,
+		"davon gesättigte Fettsäuren": 0.6,
+		"Kohlenhydrate": {
+			"total": 81,
+			"Zucker": 0.4
+		},
+		"Ballaststoffe": 2.1,
+		"Eiweiß": 5.2,
+		"Salz": 0.005
+	},
+	"Dinkel-Zwieback (alnatura)": {
+		"kj": 1641,
+		"kcal": 389,
+		"Fett": 7,
+		"davon gesättigte Fettsäuren": 3.6,
+		"Kohlenhydrate": {
+			"total": 66.8,
+			"Zucker": 2.3
+		},
+		"Ballaststoffe": 4.5,
+		"Eiweiß": 12.4,
+		"Salz": 1
+
 	}
 }
