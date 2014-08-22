@@ -64,30 +64,36 @@ tagesbedarf.controller(
 
 			$scope.exampleData = [];
 			var macronutrients = ["Fett", "Eiweiß", "Kohlenhydrate", "Ballaststoffe"];
-			var gram = 0, gramTotal = 0, gramSugar = 0;
+			var gramTotal = 0, gramSugar = 0;
 			var KEY_SUGAR = "Zucker";
-			var currentFoodFeat;
+			var currentFoodFeat, currNutrient;
 
 			for(var byIndex in macronutrients) {
 
 				currentFoodFeat = $scope.currentSelectedFoodObject[macronutrients[byIndex]];
+				currNutrient = macronutrients[byIndex];
 
 				if(currentFoodFeat === undefined) {
 
-					$scope.exampleData.push({key: macronutrients[byIndex], y: 0, color: colorsByName[macronutrients[byIndex]]});
+					$scope.exampleData.push({key: currNutrient, y: 0, color: colorsByName[currNutrient]});
 
-				} else if(macronutrients[byIndex] === "Kohlenhydrate") {
+				} else if(currNutrient === "Kohlenhydrate") {
 					
 					gramTotal = currentFoodFeat.total;
 					gramSugar = (currentFoodFeat[KEY_SUGAR] === undefined) ? 0 : currentFoodFeat[KEY_SUGAR];
 
-					$scope.exampleData.push({key: macronutrients[byIndex], y: gramTotal - gramSugar, color: colorsByName[macronutrients[byIndex]]});
+					$scope.exampleData.push({key: currNutrient, y: gramTotal - gramSugar, color: colorsByName[currNutrient]});
 					$scope.exampleData.push({key: KEY_SUGAR, y: gramSugar, color: "red"});
+
+				} else if(currNutrient === "Fett") {
+
+					gramTotal = currentFoodFeat.total;
+					$scope.exampleData.push({key: currNutrient, y: gramTotal, color: colorsByName[currNutrient]});									
 					
 				} else {
 
-					gram = currentFoodFeat;
-					$scope.exampleData.push({key: macronutrients[byIndex], y: gram, color: colorsByName[macronutrients[byIndex]]});
+					gramTotal = currentFoodFeat;
+					$scope.exampleData.push({key: currNutrient, y: gramTotal, color: colorsByName[currNutrient]});
 					
 				}
 

@@ -2,8 +2,10 @@
     "Glutenfreie Haferflocken (alnatura)": {
 		"kJ": 1548,
 		"kcal": 367,
-		"Fett": 6.2,
-		"davon gesättigte Fettsäuren": 1.1,
+		"Fett": {
+			"total": 6.2,
+			"davon gesättigte Fettsäuren": 1.1
+		},
 		"Kohlenhydrate": {
 			"total": 61,
 			"Zucker": 1
@@ -20,16 +22,20 @@
 			"total": 4.8,
 			"Zucker": 4.8
 		},
-		"Fett": 1.5,
-		"davon gesättigte Fettsäuren": 0.9,
+		"Fett": {
+			"total": 1.5,
+			"davon gesättigte Fettsäuren": 0.9
+		},
 		"Natrium": 0.05,
 		"Calcium": 0.12
     },
     "Sonnenblumenbrot (rewe Bio)": {
 		"kJ": 944,
 		"kcal": 225,
-		"Fett": 4.8,
-		"davon gesättigte Fettsäuren": 0.6,
+		"Fett": {
+			"total": 4.8,
+			"davon gesättigte Fettsäuren": 0.6
+		},
 		"Kohlenhydrate": {
 			"total": 35.4,
 			"Zucker": 2.4
@@ -41,16 +47,20 @@
     "Laktosefreier Bio-Käse Bioländer (Andechser)": {
 		"kJ": 1370,
 		"kcal": 330,
-		"Fett": 26,
-		"davon gesättigte Fettsäuren": 16,
+		"Fett": {
+			"total": 26,
+			"davon gesättigte Fettsäuren": 16
+		},
 		"Eiweiß": 24,
 		"Salz": 2
     },
     "Laktosefreier Bio-Alpenländer Butterkäse (Andechser)": {
 		"kJ": 1598,
 		"kcal": 386,
-		"Fett": 34,
-		"davon gesättigte Fettsäuren": 22,
+		"Fett": {
+			"total": 34,
+			"davon gesättigte Fettsäuren": 22
+		},
 		"Eiweiß": 20,
 		"Salz": 1.5
     },
@@ -61,7 +71,9 @@
 			"total": 4.8,
 			"Zucker": 4.8
 		},
-		"Fett": 3.5,
+		"Fett": {
+			"total": 3.5
+		},
 		"Eiweiß": 4.5,
 		"Natrium": 0.05,
 		"Salz": 0.1
@@ -69,8 +81,10 @@
     "Feine Bitter Schokolade 92% Cacao (Vivani)": {
 		"kJ": 2674,
 		"kcal": 648,
-		"Fett": 59.4,
-		"davon gesättigte Fettsäuren": 37.4,
+		"Fett": {
+			"total": 59.4,
+			"davon gesättigte Fettsäuren": 37.4
+		},
 		"Kohlenhydrate": {
 			"total": 13.1,
 			"Zucker": 7
@@ -85,13 +99,17 @@
 		"Kohlenhydrate": {
 			"total": 0.7
 		},
-		"Fett": 11.2
+		"Fett": {
+			"total": 11.2
+		}
 	},
 	"Smelk Haferdrink Mandel+Calcium (Kölln)": {
 		"kJ": 163,
 		"kcal": 39,
-		"Fett": 0.7,
-		"davon gesättigte Fettsäuren": 0.3,
+		"Fett": {
+			"total": 0.7,
+			"davon gesättigte Fettsäuren": 0.3
+		},
 		"Kohlenhydrate": {
 			"total": 7.1,
 			"Zucker": 4.4
@@ -104,8 +122,10 @@
 	"Bio-Basmatireis, weiß (alnatura)": {
 		"kJ": 1540,
 		"kcal": 363,
-		"Fett": 1.2,
-		"davon gesättigte Fettsäuren": 0.4,
+		"Fett": {
+			"total": 1.2,
+			"davon gesättigte Fettsäuren": 0.4
+		},
 		"Kohlenhydrate": {
 			"total": 78,
 			"Zucker": 1.1
@@ -122,7 +142,9 @@
 			"total": 4.8,
 			"Zucker": 2.8
 		},
-		"Fett": 0.2,
+		"Fett": {
+			"total": 0.2
+		},
 		"Ballaststoffe": 3.6
 	},
 	"Bio-Leberwurst (rewe)": {
@@ -133,16 +155,20 @@
 			"total": 1,
 			"Zucker": 0.4
 		},
-		"Fett": 32,
-		"davon gesättigte Fettsäuren": 13,
+		"Fett": {
+			"total": 32,
+			"davon gesättigte Fettsäuren": 13
+		},
 		"Ballaststoffe": 0.2,
 		"Natrium": 0.7
 	},
 	"Real Thai Kokosnussmilch": {
 		"kJ": 771,
 		"kcal": 187,
-		"Fett": 19,
-		"davon gesättigte Fettsäuren": 17,
+		"Fett": {
+			"total": 19,
+			"davon gesättigte Fettsäuren": 17
+		},
 		"Kohlenhydrate": {
 			"total": 2,
 			"Zucker": 2
@@ -152,16 +178,20 @@
 	"Bio-Margarine mit Sonnenblumenöl (alnatura)": {
 		"kJ": 2960,
 		"kcal": 720,
-		"Fett": 80,
-		"davon gesättigte Fettsäuren": 22,
-		"davon einfach ungesättigte Fettsäuren": 24,
-		"davon mehrfach ungesättigte Fettsäuren": 34
+		"Fett": {
+			"total": 80,
+			"davon gesättigte Fettsäuren": 22,
+			"davon einfach ungesättigte Fettsäuren": 24,
+			"davon mehrfach ungesättigte Fettsäuren": 34
+		}
 	},
 	"Grand Noir Edelbitter 85% Bio-Schokolade (GEPA)": {
 		"kJ": 2461,
 		"kcal": 596,
 		"Eiweiß": 8.1,
-		"Fett": 52.8,
+		"Fett": {
+			"total": 52.8
+		},
 		"Kohlenhydrate": {
 			"total": 15.7
 		}
@@ -169,8 +199,10 @@
 	"Bio Paprika-Lyoner (Rewe Bio)": {
 		"kJ": 1076,
 		"kcal": 260,
-		"Fett": 23,
-		"davon gesättigte Fettsäuren": 9.3,
+		"Fett": {
+			"total": 23,
+			"davon gesättigte Fettsäuren": 9.3
+		},
 		"Kohlenhydrate": {
 			"total": 1,
 			"Zucker": 1
@@ -185,15 +217,19 @@
 		"Kohlenhydrate": {
 			"total": 2.2
 		},
-		"Fett": 24
+		"Fett": {
+			"total": 24
+		}
 	},
 	"Mandeln (Kluth)": {
 		"kj": 2447,
 		"kcal": 592,
-		"Fett": 49.4,
-		"davon gesättigte Fettsäuren": 3.7,
-		"davon einfach ungesättigte Fettsäuren": 30.9,
-		"davon mehrfach ungesättigte Fettsäuren": 12.1,
+		"Fett": {
+			"total": 49.4,
+			"davon gesättigte Fettsäuren": 3.7,
+			"davon einfach ungesättigte Fettsäuren": 30.9,
+			"davon mehrfach ungesättigte Fettsäuren": 12.1
+		},
 		"Kohlenhydrate": {
 			"total": 9.5,
 			"Zucker": 3.9
@@ -207,8 +243,10 @@
 	"Roggenvollkornbrot mit Sonnenblumenkernen (alnatura)": {
 		"kJ": 849,
 		"kcal": 202,
-		"Fett": 3.4,
-		"davon gesättigte Fettsäuren": 0.6,
+		"Fett": {
+			"total": 3.4,
+			"davon gesättigte Fettsäuren": 0.6
+		},
 		"Kohlenhydrate": {
 			"total": 32.3,
 			"Zucker": 3.7
@@ -225,15 +263,19 @@
 			"total": 34.5,
 			"Zucker": 2.5
 		},
-		"Fett": 2.3,
-		"davon gesättigte Fettsäuren": 0.3,
+		"Fett": {
+			"total": 2.3,
+			"davon gesättigte Fettsäuren": 0.3
+		},
 		"Ballaststoffe": 9.3,
 		"Natrium": 0.52
 	},
 	"Vollkorn-Zwieback (Brandt)": {
 		"kJ": 1616,
 		"kcal": 383,
-		"Fett": 6,
+		"Fett": {
+			"total": 6
+		},
 		"davon gesättigte Fettsäuren": 3.1,
 		"Kohlenhydrate": {
 			"total": 64,
@@ -246,16 +288,20 @@
 	"Bio-Olivenöl nativ extra (alnatura)": {
 		"kJ": 3700,
 		"kcal": 900,
-		"Fett": 100,
-		"davon gesättigte Fettsäuren": 20,
-		"davon einfach ungesättigte Fettsäuren": 61,
-		"davon mehrfach ungesättigte Fettsäuren": 19
+		"Fett": {
+			"total": 100,
+			"davon gesättigte Fettsäuren": 20,
+			"davon einfach ungesättigte Fettsäuren": 61,
+			"davon mehrfach ungesättigte Fettsäuren": 19
+		}
 	},
 	"Kokosmilch cremig (Lien Ying)": {
 		"kJ": 714,
 		"kcal": 173,
-		"Fett": 17,
-		"davon gesättigte Fettsäuren": 15,
+		"Fett": {
+			"total": 17,
+			"davon gesättigte Fettsäuren": 15
+		},
 		"Kohlenhydrate": {
 			"total": 3,
 			"Zucker": 1.5
@@ -272,10 +318,12 @@
 			"Zucker": 5.2
 		},
 		"Ballaststoffe": 0.5,
-		"Fett": 1.4,
-		"davon gesättigte Fettsäuren": 0.2,
-		"davon einfach ungesättigte Fettsäuren": 0.5,
-		"davon mehrfach ungesättigte Fettsäuren": 0.7,
+		"Fett": {
+			"total": 1.4,
+			"davon gesättigte Fettsäuren": 0.2,
+			"davon einfach ungesättigte Fettsäuren": 0.5,
+			"davon mehrfach ungesättigte Fettsäuren": 0.7
+		},
 		"Natrium": 0.04,
 		"Calcium": 0.12
 	},
@@ -286,14 +334,18 @@
 		"Kohlenhydrate": {
 			"total": 1.7
 		},
-		"Fett": 0.6,
+		"Fett": {
+			"total": 0.6
+		},
 		"Ballaststoffe": 85
 	},
 	"Bio Naturreis mit Wildreis (alnatura)": {
 		"kj": 1488,
 		"kcal": 351,
-		"Fett": 2.3,
-		"davon gesättigte Fettsäuren": 0.6,
+		"Fett": {
+			"total": 2.3,
+			"davon gesättigte Fettsäuren": 0.6
+		},
 		"Kohlenhydrate": {
 			"total": 72,
 			"Zucker": 1.6
@@ -305,8 +357,10 @@
 	"Bio Basmati-Vollkornreis (alnatura)": {
 		"kJ": 1516,
 		"kcal": 358,
-		"Fett": 3,
-		"davon gesättigte Fettsäuren": 0.9,
+		"Fett": {
+			"total": 3,
+			"davon gesättigte Fettsäuren": 0.9
+		},
 		"Kohlenhydrate": {
 			"total": 72.2,
 			"Zucker": 0.9
@@ -317,8 +371,10 @@
 	"Bio Langkornreis, parboiled (alnatura)": {
 		"kj": 1476,
 		"kcal": 348,
-		"Fett": 0.8,
-		"davon gesättigte Fettsäuren": 0.3,
+		"Fett": {
+			"total": 0.8,
+			"davon gesättigte Fettsäuren": 0.3
+		},
 		"Kohlenhydrate": {
 			"total": 77.4,
 			"Zucker": 0.4
@@ -330,8 +386,10 @@
 	"Bio Naturreis Langkorn (alnatura)": {
 		"kJ": 1529,
 		"kcal": 361,
-		"Fett": 1.9,
-		"davon gesättigte Fettsäuren": 0.1,
+		"Fett": {
+			"total": 1.9,
+			"davon gesättigte Fettsäuren": 0.1
+		},
 		"Kohlenhydrate": {
 			"total": 77.4,
 			"Zucker": 1.2
@@ -343,8 +401,10 @@
 	"Bio-Amaranth (alnatura)": {
 		"kJ": 1690,
 		"kcal": 402,
-		"Fett": 8.8,
-		"davon gesättigte Fettsäuren": 2.1,
+		"Fett": {
+			"total": 8.8,
+			"davon gesättigte Fettsäuren": 2.1
+		},
 		"Kohlenhydrate": {
 			"total": 56.8,
 			"Zucker": 1.7
@@ -356,8 +416,10 @@
 	"Bio-Quinoa (alnatura)": {
 		"kJ": 1542,
 		"kcal": 365,
-		"Fett": 5.9,
-		"davon gesättigte Fettsäuren": 0.5,
+		"Fett": {
+			"total": 5.9,
+			"davon gesättigte Fettsäuren": 0.5
+		},
 		"Kohlenhydrate": 62.4,
 		"davon Zucker": 1.8,
 		"Ballaststoffe": 6.9,
@@ -367,8 +429,10 @@
 	"Bio-Hirse (alnatura)": {
 		"kJ": 1525,
 		"kcal": 360,
-		"Fett": 3.9,
-		"davon gesättigte Fettsäuren": 1,
+		"Fett": {
+			"total": 3.9,
+			"davon gesättigte Fettsäuren": 1
+		},
 		"Kohlenhydrate": {
 			"total": 68.8,
 			"Zucker": 1.5
@@ -380,8 +444,10 @@
 	"Bio-Haferflocken, Feinblatt (alnatura)": {
 		"kJ": 1468,
 		"kcal": 349,
-		"Fett": 7.1,
-		"davon gesättigte Fettsäuren": 1.4,
+		"Fett": {
+			"total": 7.1,
+			"davon gesättigte Fettsäuren": 1.4
+		},
 		"Kohlenhydrate": {
 			"total": 55.7,
 			"Zucker": 1.1
@@ -398,16 +464,20 @@
 			"total": 5,
 			"Zucker": 4.1
 		},
-		"Fett": 25.8,
-		"davon gesättigte Fettsäuren": 2.5,
+		"Fett": {
+			"total": 25.8,
+			"davon gesättigte Fettsäuren": 2.5
+		},
 		"Ballaststoffe": 2.8,
 		"Natrium": 0.53
 	},
 	"Glutenfreine Spiralnudeln (3 Pauly)": {
 		"kJ": 1571,
 		"kcal": 371,
-		"Fett": 2.4,
-		"davon gesättigte Fettsäuren": 0.6,
+		"Fett": {
+			"total": 2.4,
+			"davon gesättigte Fettsäuren": 0.6
+		},
 		"Kohlenhydrate": {
 			"total": 81,
 			"Zucker": 0.4
@@ -419,8 +489,10 @@
 	"Dinkel-Zwieback (alnatura)": {
 		"kj": 1641,
 		"kcal": 389,
-		"Fett": 7,
-		"davon gesättigte Fettsäuren": 3.6,
+		"Fett": {
+			"total": 7,
+			"davon gesättigte Fettsäuren": 3.6
+		},
 		"Kohlenhydrate": {
 			"total": 66.8,
 			"Zucker": 2.3
@@ -433,8 +505,10 @@
 	"Zwieback, laktosefrei (Brandt)": {
 		"kJ": 1695,
 		"kcal": 401,
-		"Fett": 6,
-		"davon gesättigte Fettsäuren": 2.9,
+		"Fett": {
+			"total": 6,
+			"davon gesättigte Fettsäuren": 2.9
+		},
 		"Kohlenhydrate": {
 			"total": 73,
 			"Zucker": 9.3
@@ -445,8 +519,10 @@
 	"Zwieback (Brandt)": {
 		"kJ": 1693,
 		"kcal": 401,
-		"Fett": 6,
-		"davon gesättigte Fettsäuren": 2.6,
+		"Fett": {
+			"total": 6,
+			"davon gesättigte Fettsäuren": 2.6
+		},
 		"Kohlenhydrate": {
 			"total": 74,
 			"Zucker": 14
@@ -457,8 +533,10 @@
 	"Matzen (P. Heumann)": {
 		"kJ": 1543,
 		"kcal": 363,
-		"Fett": 1.1,
-		"davon gesättigte Fettsäuren": 0.2,
+		"Fett": {
+			"total": 1.1,
+			"davon gesättigte Fettsäuren": 0.2
+		},
 		"Kohlenhydrate": {
 			"total": 76.5,
 			"Zucker": 0.7
@@ -469,8 +547,10 @@
 	"Glutenfreie Bio-Nussecken (Alnavit)": {
 		"kJ": 2113,
 		"kcal": 507,
-		"Fett": 32,
-		"davon gesättigte Fettsäuren": 9,
+		"Fett": {
+			"total": 32,
+			"davon gesättigte Fettsäuren": 9
+		},
 		"Kohlenhydrate": {
 			"total": 48.5,
 			"Zucker": 26.5
