@@ -12,7 +12,7 @@
 		"Eiweiß": 12.3,
 		"Salz": 0.02
     },
-    "Laktosefreise BioH-Milch 1,5% (Alnaviva)": {
+    "Laktosefreie BioH-Milch 1,5% (Alnaviva)": {
 		"kJ": 195,
 		"kcal": 46,
 		"Eiweiß": 3.4,
@@ -429,5 +429,54 @@
 		"Eiweiß": 12.4,
 		"Salz": 1
 
+	},
+	"Zwieback, laktosefrei (Brandt)": {
+		"kJ": 1695,
+		"kcal": 401,
+		"Fett": 6,
+		"davon gesättigte Fettsäuren": 2.9,
+		"Kohlenhydrate": {
+			"total": 73,
+			"Zucker": 9.3
+		},
+		"Eiweiß": 12,
+		"Salz": 0.7
+	},
+	"Zwieback (Brandt)": {
+		"kJ": 1693,
+		"kcal": 401,
+		"Fett": 6,
+		"davon gesättigte Fettsäuren": 2.6,
+		"Kohlenhydrate": {
+			"total": 74,
+			"Zucker": 14
+		},
+		"Eiweiß": 11,
+		"Salz": 0.5
+	},
+	"Matzen (P. Heumann)": {
+		"kJ": 1543,
+		"kcal": 363,
+		"Fett": 1.1,
+		"davon gesättigte Fettsäuren": 0.2,
+		"Kohlenhydrate": {
+			"total": 76.5,
+			"Zucker": 0.7
+		},
+		"Eiweiß": 11.8,
+		"Natrium": 0.0068
+	},
+	"Glutenfreie Bio-Nussecken (Alnavit)": {
+		"kJ": 2113,
+		"kcal": 507,
+		"Fett": 32,
+		"davon gesättigte Fettsäuren": 9,
+		"Kohlenhydrate": {
+			"total": 48.5,
+			"Zucker": 26.5
+		},
+		"Ballaststoffe": 3.5,
+		"Eiweiß": 4.5,
+		"Natrium": 0.01
 	}
 }
