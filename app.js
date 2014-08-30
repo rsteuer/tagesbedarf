@@ -39,7 +39,8 @@ tagesbedarf.controller(
 			"Kohlenhydrate": "#FF7F0E",
 			"Fett": "#1F77B4",
 			"Eiweiß": "#AEC7E8",
-			"Ballaststoffe": "#FFBB78"			
+			"Ballaststoffe": "#FFBB78",
+			"Zucker": "red"
 		};
 
 		$scope.colorFunction = function() {
@@ -60,9 +61,13 @@ tagesbedarf.controller(
 			};
 		};
 
+		var pushToGraphData = function(nutrient, gram) {
+			$scope.macroGraphData.push({key: nutrient, y: gram, color: colorsByName[nutrient]});
+		};
+
 		var buildMacronutrientGraph = function() {
 
-			$scope.exampleData = [];
+			$scope.macroGraphData = [];
 			var macronutrients = ["Fett", "Eiweiß", "Kohlenhydrate", "Ballaststoffe"];
 			var gramTotal = 0, gramSugar = 0;
 			var KEY_SUGAR = "Zucker";
@@ -70,30 +75,27 @@ tagesbedarf.controller(
 
 			for(var byIndex in macronutrients) {
 
-				currentFoodFeat = $scope.currentSelectedFoodObject[macronutrients[byIndex]];
 				currNutrient = macronutrients[byIndex];
+				currentFoodFeat = $scope.currentSelectedFoodObject[currNutrient];
 
 				if(currentFoodFeat === undefined) {
 
-					$scope.exampleData.push({key: currNutrient, y: 0, color: colorsByName[currNutrient]});
-
+					pushToGraphData(currNutrient, 0);
+					
 				} else if(currNutrient === "Kohlenhydrate") {
 					
 					gramTotal = currentFoodFeat.total;
 					gramSugar = (currentFoodFeat[KEY_SUGAR] === undefined) ? 0 : currentFoodFeat[KEY_SUGAR];
-
-					$scope.exampleData.push({key: currNutrient, y: gramTotal - gramSugar, color: colorsByName[currNutrient]});
-					$scope.exampleData.push({key: KEY_SUGAR, y: gramSugar, color: "red"});
+					pushToGraphData(currNutrient, gramTotal - gramSugar);
+					pushToGraphData(KEY_SUGAR, gramSugar);
 
 				} else if(currNutrient === "Fett") {
 
-					gramTotal = currentFoodFeat.total;
-					$scope.exampleData.push({key: currNutrient, y: gramTotal, color: colorsByName[currNutrient]});									
+					pushToGraphData(currNutrient, currentFoodFeat.total);
 					
 				} else {
 
-					gramTotal = currentFoodFeat;
-					$scope.exampleData.push({key: currNutrient, y: gramTotal, color: colorsByName[currNutrient]});
+					pushToGraphData(currNutrient, currentFoodFeat);
 					
 				}
 
