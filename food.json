@@ -739,5 +739,109 @@
 		},
 		"Ballaststoffe": 3.5,
 		"Eiweiß": 12
+	},
+	"Mandel-Drink, ungesüßt (Provamel)": {
+		"kJ": 152,
+		"kcal": 37,
+		"Fett": {
+			"total": 3,
+			"gesättigte Fettsäuren": 0.3
+		},
+		"Kohlenhydrate": {
+			"total": 1.2,
+			"Zucker": 0.3
+		},
+		"Ballaststoffe": 0.7,
+		"Eiweiß": 0.9,
+		"Salz": 0.09
+	},
+	"Soja-Drink, ungesüßt (Provamel)": {
+		"kJ": 147,
+		"kcal": 35,
+		"Fett": {
+			"total": 2.1,
+			"gesättigte Fettsäuren": 0.4
+		},
+		"Kohlenhydrate": {
+			"total": 0.1,
+			"Zucker": 0.1
+		},
+		"Ballaststoffe": 0.6,
+		"Eiweiß": 3.7,
+		"Salz": 0.04
+	},
+	"Kichererbsen (Bonduelle)": {
+		"kJ": 503,
+		"kcal": 120,
+		"Fett": {
+			"total": 2.2,
+			"gesättigte Fettsäuren": 0.2
+		},
+		"Kohlenhydrate": {
+			"total": 14.7,
+			"Zucker": 0.1
+		},
+		"Ballaststoffe": 7.7,
+		"Eiweiß": 6.4,
+		"Salz": 0.6
+	},
+	"Goldmais (Bonduelle)": {
+		"kJ": 334,
+		"kcal": 80,
+		"Fett": {
+			"total": 1.9,
+			"gesättigte Fettsäuren": 0.5
+		},
+		"Kohlenhydrate": {
+			"total": 10.8,
+			"Zucker": 5.2
+		},
+		"Ballaststoffe": 3.8,
+		"Eiweiß": 2.9,
+		"Salz": 0.4
+	},
+	"Junge Erbsen, sehr fein (Bonduelle)": {
+		"kJ": 362,
+		"kcal": 86,
+		"Fett": {
+			"total": 0.7,
+			"gesättigte Fettsäuren": 0.2
+		},
+		"Kohlenhydrate": {
+			"total": 10.3,
+			"Zucker": 1.7
+		},
+		"Ballaststoffe": 6.9,
+		"Eiweiß": 6.2,
+		"Salz": 0.61
+	},
+	"Grüne Bohnen, sehr fein (Bonduelle)": {
+		"kJ": 111,
+		"kcal": 26,
+		"Fett": {
+			"total": 0.2
+		},
+		"Kohlenhydrate": {
+			"total": 3.1,
+			"Zucker": 1
+		},
+		"Ballaststoffe": 2.9,
+		"Eiweiß": 1.6,
+		"Salz": 0.57
+	},
+	"Möhrchen (Bonduelle)": {
+		"kJ": 98,
+		"kcal": 23,
+		"Fett": {
+			"total": 0.3,
+			"gesättigte Fettsäuren": 0.1
+		},
+		"Kohlenhydrate": {
+			"total": 3.4,
+			"Zucker": 2.2
+		},
+		"Ballaststoffe": 2.3,
+		"Eiweiß": 0.6,
+		"Salz": 0.55
 	}
 }
